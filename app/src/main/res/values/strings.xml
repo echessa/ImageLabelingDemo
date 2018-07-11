@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageLabelingDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_process">Process</string>
+    <string name="storage_access_required">Storage access is required to enable selection of images</string>
+    <string name="ok">OK</string>
+    <string name="select_image">Select an image for processing</string>
+</resources>

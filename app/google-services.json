@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "821601791344",
+    "firebase_url": "https://ml-kit-test-project-abd55.firebaseio.com",
+    "project_id": "ml-kit-test-project-abd55",
+    "storage_bucket": "ml-kit-test-project-abd55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821601791344:android:df94b5b2c3abdea7",
+        "android_client_info": {
+          "package_name": "com.echessa.imagelabelingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821601791344-1hrk3sabjb9lq3pjhrq8jmsksn94up6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp0z8nYSPk9aV6MQaPwc4KZA5R9qmnP-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
